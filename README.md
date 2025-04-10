@@ -3,9 +3,12 @@
 🎓 Tenho 20 anos e sou um desenvolvedor Full Stack apaixonado por tecnologia.  
 💻 Minhas principais habilidades incluem:
 
-- Node.js
 - React
 - JavaScript
+- Python
+- Node.js
+- Nest.js
+- SpringBoot
 - Comunicação
 - Aprendizado Contínuo
 
