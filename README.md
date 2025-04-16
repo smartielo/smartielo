@@ -47,5 +47,5 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 
 ### Meu setup: 💻
 
-<div>  <img text-align="center" alt="note" src="https://img.shields.io/badge/Windows-Galaxy_Book_2-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+<div>  <img text-align="center" alt="note" src="https://img.shields.io/badge/Windows-ASUS_TUF_F15-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div></br>
