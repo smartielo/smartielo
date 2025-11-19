@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gabriel Martielo👋
 ### Sobre mim:🙋🏾‍♂️
-🎓 Tenho 20 anos e sou um desenvolvedor Full Stack apaixonado por tecnologia.  
+🎓 Tenho 21 anos e sou um desenvolvedor Full Stack e Aspirante a cientista de dados apaixonado por tecnologia.  
 💻 Minhas principais habilidades incluem:
 
 - React
