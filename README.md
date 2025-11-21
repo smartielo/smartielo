@@ -17,13 +17,18 @@
 
 Vamos nos conectar e criar algo incrível juntos! 🚀
 
-### Atualmente estou me desenvolvendo em: 💻📚
+<div align="center">
+  <a href="https://discord.com/users/419487984543465472">
+    <img src="https://lanyard.cnrad.dev/api/419487984543465472?theme=dark&bg=0d1117&hideDiscrim=true" />
+  </a>
+</div>
 
-<div style="display: inline_block"><br/>
-    <img text-align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img text-align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-    <img text-align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img text-align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+### 💻📚 Atualmente estou me desenvolvendo em: 
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,kotlin,mongodb,docker" />
+  </a>
 </div>
 
 ### Estes são meus links:✨ 
@@ -37,7 +42,7 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ](https://open.spotify.com/user/227gfss3nov6oyljgju2wyuiq?si=29503e7c5b184a04)
 
-![Martielo's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartielo&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartielo&layout=compact&theme=dracula)
 
 ### Tecnologias que eu utilizo:👨🏽‍💻
 
