@@ -6,8 +6,8 @@
 - React
 - JavaScript
 - Python
-- Node.js
-- Nest.js
+- Kotlin
+- SQL
 - SpringBoot
 - Comunicação
 - Aprendizado Contínuo
@@ -16,6 +16,15 @@
 🚀 Estou animado para colaborar em projetos inovadores e contribuir com a comunidade de desenvolvedores.
 
 Vamos nos conectar e criar algo incrível juntos! 🚀
+
+### Atualmente focado em: 💻📚
+
+<div style="display: inline_block"><br/>
+    <img text-align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img text-align="center" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+    <img text-align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img text-align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</div>
 
 ### Estes são meus links:✨ 
 
@@ -33,16 +42,19 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 ### Tecnlogias que eu utilizo:👨🏽‍💻
 
 <div style="display: inline_block"><br/>
+    <img text-align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img text-align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img text-align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+    <img text-align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
+    <img text-align="center" alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img text-align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img (text-align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img text-align="center" alt="gemini" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
     <img text-align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img text-align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img text-align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img text-align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-    <img text-align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img text-align="center" alt="nest.js" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
-    <img (text-align="center" alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img text-align="center" alt="spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> 
     <img text-align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img text-align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+    
 </div>
 
 ### Meu setup: 💻
