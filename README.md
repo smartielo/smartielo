@@ -57,10 +57,4 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
     <img text-align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img text-align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img text-align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-    
 </div>
-
-### Meu setup: 💻
-
-<div>  <img text-align="center" alt="note" src="https://img.shields.io/badge/Windows-ASUS_TUF_F15-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</div></br>
