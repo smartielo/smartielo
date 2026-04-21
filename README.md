@@ -42,8 +42,6 @@ Vamos nos conectar e criar algo incrível juntos! 🚀
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ](https://open.spotify.com/user/227gfss3nov6oyljgju2wyuiq?si=29503e7c5b184a04)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartielo&layout=compact&theme=dracula)
-
 ### Tecnologias que eu utilizo:👨🏽‍💻
 
 <div style="display: inline_block"><br/>
